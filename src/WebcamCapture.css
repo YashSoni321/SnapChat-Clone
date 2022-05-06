@@ -1,0 +1,23 @@
+.webcamCapture {
+  /* border-radius: 20px;
+  position: relative;
+  width: 90%;
+  max-height: 80%;
+  min-width: 80%;
+  box-shadow: 1px 8px 18px grey; */
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.webcamCapture__button {
+  position: absolute;
+  bottom: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  /* box-shadow: 1px 18px 18px grey; */
+  color: #fff;
+}

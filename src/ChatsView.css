@@ -1,0 +1,29 @@
+.chatView {
+  /* position: relative; */
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.chatView > img {
+  cursor: pointer;
+  height: 100%;
+  width: 100%;
+}
+
+.chatView__timer {
+  position: absolute;
+  top: 10%;
+  right: 0;
+  margin: 20px;
+}
+
+.chatsViewImage {
+  height: 80vh;
+  width: 88vw;
+}
+
+.logoutBtn {
+  margin: auto;
+}
