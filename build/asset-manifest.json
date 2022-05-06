@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff55e449.css",
+    "main.js": "/static/js/main.717992d0.js",
+    "static/media/snapLogo.png": "/static/media/snapLogo.d8015b2559a21f414a13.png",
+    "index.html": "/index.html",
+    "main.ff55e449.css.map": "/static/css/main.ff55e449.css.map",
+    "main.717992d0.js.map": "/static/js/main.717992d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff55e449.css",
+    "static/js/main.717992d0.js"
+  ]
+}
